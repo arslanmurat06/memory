@@ -1,5 +1,33 @@
-﻿<Properties StartupConfiguration="{5497D5E7-E58E-42D9-94C0-4EDC41A78D47}|Default">
-  <MonoDevelop.Ide.ItemProperties.Yield FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{A714E63A-72A4-4660-A23B-3D267F627B1E}|https">
+  <MonoDevelop.Ide.ItemProperties.Yield PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/muratarslan/Development/NET/Interview/Lazy/Program.cs" relfile="Lazy/Program.cs" line="8" column="1" />
+      <Breakpoint file="/Users/muratarslan/Development/NET/Interview/ChannelPubSub/MessageBroker.cs" relfile="ChannelPubSub/MessageBroker.cs" line="30" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ChannelPubSub PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Lazy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChannelPubSub/Program.cs">
+    <Files>
+      <File FileName="ChannelPubSub/BackgroundServices/Pub.cs" Line="10" Column="1" />
+      <File FileName="ChannelPubSub/BackgroundServices/Sub.cs" Line="34" Column="54" />
+      <File FileName="ChannelPubSub/Program.cs" Line="19" Column="40" />
+      <File FileName="ChannelPubSub/MessageBroker.cs" Line="33" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Interview" expanded="True" selected="True">
+            <Node name="ChannelPubSub">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>

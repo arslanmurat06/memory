@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fDMZAJYvCz+kM39W0NgBSjQr1UC34m3ACY3t4D1HTv0=",
+  "Source": "ChannelPubSub",
+  "BasePath": "_content/ChannelPubSub",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
