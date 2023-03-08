@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f25uHXMRG4gwBTrY57iQmHEAlIpRJ5vdyhQamSfrL5mi1fDM1jqD0NVW4puvZx+41COSog/b1gyeUdh1G+zzdg==",
+  "success": true,
+  "projectFilePath": "/Users/muratarslan/Development/NET/Interview/Lazy/Lazy.csproj",
+  "expectedPackageFiles": [
+    "/Users/muratarslan/.nuget/packages/bogus/34.0.2/bogus.34.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

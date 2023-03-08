@@ -1,0 +1,17 @@
+/Users/muratarslan/Development/NET/Interview/Lazy/bin/Debug/net7.0/Lazy
+/Users/muratarslan/Development/NET/Interview/Lazy/bin/Debug/net7.0/Lazy.deps.json
+/Users/muratarslan/Development/NET/Interview/Lazy/bin/Debug/net7.0/Lazy.runtimeconfig.json
+/Users/muratarslan/Development/NET/Interview/Lazy/bin/Debug/net7.0/Lazy.dll
+/Users/muratarslan/Development/NET/Interview/Lazy/bin/Debug/net7.0/Lazy.pdb
+/Users/muratarslan/Development/NET/Interview/Lazy/bin/Debug/net7.0/Bogus.dll
+/Users/muratarslan/Development/NET/Interview/Lazy/obj/Debug/net7.0/Lazy.csproj.AssemblyReference.cache
+/Users/muratarslan/Development/NET/Interview/Lazy/obj/Debug/net7.0/Lazy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratarslan/Development/NET/Interview/Lazy/obj/Debug/net7.0/Lazy.AssemblyInfoInputs.cache
+/Users/muratarslan/Development/NET/Interview/Lazy/obj/Debug/net7.0/Lazy.AssemblyInfo.cs
+/Users/muratarslan/Development/NET/Interview/Lazy/obj/Debug/net7.0/Lazy.csproj.CoreCompileInputs.cache
+/Users/muratarslan/Development/NET/Interview/Lazy/obj/Debug/net7.0/Lazy.csproj.CopyComplete
+/Users/muratarslan/Development/NET/Interview/Lazy/obj/Debug/net7.0/Lazy.dll
+/Users/muratarslan/Development/NET/Interview/Lazy/obj/Debug/net7.0/refint/Lazy.dll
+/Users/muratarslan/Development/NET/Interview/Lazy/obj/Debug/net7.0/Lazy.pdb
+/Users/muratarslan/Development/NET/Interview/Lazy/obj/Debug/net7.0/Lazy.genruntimeconfig.cache
+/Users/muratarslan/Development/NET/Interview/Lazy/obj/Debug/net7.0/ref/Lazy.dll
