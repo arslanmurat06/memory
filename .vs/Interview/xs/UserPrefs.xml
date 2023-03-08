@@ -1,4 +1,5 @@
-﻿<Properties StartupConfiguration="{8C02FA33-51A5-4D77-80E8-0BC7F68386DD}|Default">
+﻿<Properties StartupConfiguration="{5497D5E7-E58E-42D9-94C0-4EDC41A78D47}|Default">
+  <MonoDevelop.Ide.ItemProperties.Yield FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Lazy FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lazy PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

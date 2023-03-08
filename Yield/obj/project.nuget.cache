@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ul1W/gn6ITVx/iWQR00gltHD01H32l7hQH3GrIRY3X6r1RC84om4QE7bVOXf7tGII9Bp5op21rq9GjTsUhOSaQ==",
+  "success": true,
+  "projectFilePath": "/Users/muratarslan/Development/NET/Interview/Yield/Yield.csproj",
+  "expectedPackageFiles": [
+    "/Users/muratarslan/.nuget/packages/bogus/34.0.2/bogus.34.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
